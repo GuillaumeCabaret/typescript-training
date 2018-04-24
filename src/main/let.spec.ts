@@ -44,7 +44,7 @@ describe('let declarations', () => {
   it('enable to use block statements', () => {
     // BLOCK STATEMENT
     {
-      // Change to `let` declaration
+      // Change to ` let` declaration
       let d = 2
     }
 
