@@ -13,7 +13,6 @@
   },
   "include": [
     "src/datatypes/*.ts",
-    "src/main/*.ts",
     "data/**/*.ts",
     "src/lib.ext.ts",
     "src/matchers.ts",
